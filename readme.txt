@@ -7,4 +7,4 @@ To run- java Test.java
 Follow these steps to run java
 
 Implementing webhook
-trying to implement SCM
+trying to implement Poll SCM
