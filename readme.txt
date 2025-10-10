@@ -7,6 +7,4 @@ To run- java Test.java
 Follow these steps to run java
 
 Implementing webhook
-It worked
-
-trying to implement 
+trying to implement
